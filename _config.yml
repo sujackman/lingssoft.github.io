@@ -23,7 +23,7 @@ baseurl: ""
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  About Me: "Who AM I????"
   Resources:
     - Beautiful Jekyll : "https://lingssoft.github.io"
     - Learn markdown : "https://lingssoft.github.io"
