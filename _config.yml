@@ -25,9 +25,9 @@ baseurl: ""
 navbar-links:
   본인은 어떤사람인가요?: "Age:29 Sex:Man Favorite game:League Of legend????"
   중요한 가치란??:
-    - 열정,투지 : "https://lingssoft.github.io"
-    - 협력,상생 : "https://lingssoft.github.io"
-  오늘의 날씨: "https://search.naver.com/search.naver?sm=top_hty&fbm=1&ie=utf8&query=%EC%98%A4%EB%8A%98%EC%9D%98+%EB%82%A0%EC%8B%9C"
+    - 열정,투지 : "https://google.com"
+    - 협력,상생 : "https://google.com"
+  오늘의 날씨: "https://google.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
