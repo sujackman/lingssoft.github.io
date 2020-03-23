@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Who Are You??
-subtitle: 당신이라는 사람은 누구인가요?
+title: Why??
+subtitle: WHO AM I?
 ---
 
 저는 도전을 두려워하기 보단 매사 즐기려고 노력하는 스타일입니다:
@@ -10,8 +10,8 @@ subtitle: 당신이라는 사람은 누구인가요?
 Q. 지금 당장 하고 이루고 싶은 것은 무엇인가요??
 A. 취업을 하고 싶습니다.
 
-What else do you need?
-
+Q.What else do you need?
+A.Young And Rich plz
 ### my history
 
 - 군 경력: 대한민국육군 병장만기전역
