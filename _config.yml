@@ -22,8 +22,8 @@ baseurl: ""
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Infosecu : "https://lingssoft.github.io"
-    - ProcessH : "https://lingssoft.github.io"
+    - Beautiful Jekyll : "https://lingssoft.github.io"
+    - Learn markdown : "https://lingssoft.github.io"
   Author's home: "https://lingssoft.github.io"
 
 # Image to show in the navigation bar - image must be a square (width = height)
