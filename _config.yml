@@ -23,11 +23,11 @@ baseurl: ""
 
 # List of links in the navigation bar
 navbar-links:
-  Who AM I??: "Age:29 Sex:Man Favorite game:League Of legend????"
-  Resources:
-    - Passion : "https://lingssoft.github.io"
-    - cooperation : "https://lingssoft.github.io"
-  We go Together: "https://lingssoft.github.io"
+  본인은 어떤사람인가요?: "Age:29 Sex:Man Favorite game:League Of legend????"
+  중요한 가치란??:
+    - 열정,투지 : "https://lingssoft.github.io"
+    - 협력,상생 : "https://lingssoft.github.io"
+  오늘의 날씨: "https://lingssoft.github.io"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
